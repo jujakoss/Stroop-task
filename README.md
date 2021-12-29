@@ -4,10 +4,12 @@ https://github.com/jujakoss/Stroop-task
 
 To run :
 
-On terminal :
+1 - clone this repository on your local machine
 
-cd <project_directory>
+2 - On terminal :
 
-pip install -r requirements.txt
+    cd <project_directory>
 
-python stroopy.py
+    pip install -r requirements.txt
+
+    python stroopy.py
