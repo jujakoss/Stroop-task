@@ -7,6 +7,7 @@ To run :
 On terminal :
 
 cd <project_directory>
+
 pip install -r requirements.txt
 
 python stroopy.py
