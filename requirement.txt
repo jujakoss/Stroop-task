@@ -1,2 +1,2 @@
 psychopy
-speech_recognition
+SpeechRecognition
