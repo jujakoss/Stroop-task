@@ -13,3 +13,7 @@ To run :
     pip install -r requirements.txt
 
     python stroopy.py
+    
+    
+  this is an extention of the existing code by marsja
+  original code copyright https://github.com/marsja/stroopy
