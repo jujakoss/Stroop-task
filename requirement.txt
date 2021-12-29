@@ -1,0 +1,2 @@
+psychopy
+speech_recognitionhttps://github.com/jujakoss/Stroop-task
