@@ -1,0 +1,95 @@
+German
+
+instructionsSTART
+Ihre Aufgabe ist es, so genau und schnell wie möglich die Farbe eines vorgestellten Wortes zu bestimmen.
+Benutzen Sie Ihr Mikrofon und sagen Sie die Farbe so deutlich, wie Sie können.
+
+
+
+Im folgenden Beispiel würden Sie grün sagen, da das Wort in der Farbe grün dargestellt wird.
+
+instructionsEND
+
+practiceSTART
+Drücken Sie die Leertaste, um sechs Versuche zu testen, bevor der eigentliche Test beginnt.
+practiceEND
+
+testSTART
+Gute Arbeit!
+
+
+Wenn Sie Fragen haben, stellen Sie sie bitte jetzt.
+
+
+Versuchen Sie, so schnell und genau wie möglich zu arbeiten.
+
+
+Drücken Sie die LEERTASTE, um den eigentlichen Test zu starten.
+testEND
+
+doneSTART
+Das Experiment ist nun beendet,
+
+
+Bitte benachrichtigen Sie den Testleiter
+
+
+Drücken Sie die Leertaste, um das Programm zu beenden.
+doneEND
+
+rightSTART
+Richtig!
+rightEND
+
+incorrectSTART
+Falsch! Es ist die Farbe, die zählt, nicht das Wort
+incorrectEND
+
+GermanEnd
+
+English
+instructionsSTART
+Your task is to as accurately and quickly as possible to determine the color of a presented word.
+Use your microphone and say the color as clearly as you can.
+
+
+In the example below, you would say green, as the word is presented in the color green.
+instructionsEND
+
+practiceSTART
+Press SPACE to test six trials before the start of the actual test.
+practiceEND
+
+testSTART
+Good work!
+
+
+If you have any questions, please ask experimenter leader now.
+
+
+Try to answer as quickly and accurately as possible.
+
+
+Press the SPACE to start the experiment.
+testEND
+
+
+doneSTART
+The experiment is done,
+
+
+Please notify the experimental leader
+
+
+Press space to end the experiment
+doneEND
+
+rightSTART
+Correct!
+rightEND
+
+incorrectSTART
+Incorrect! It is the color not the word
+incorrectEND
+
+EnglishEnd
